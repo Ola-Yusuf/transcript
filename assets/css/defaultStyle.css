@@ -1,0 +1,12 @@
+#logInLink,
+#signUpLink {
+  color: brown;
+}
+
+.hideElement {
+  display: none;
+}
+
+.showElement {
+  display: block;
+}
